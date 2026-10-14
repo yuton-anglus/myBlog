@@ -1,4 +1,4 @@
-baseURL: "https://localhost:1313/"
+baseURL: "https://myblog14.pages.dev/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
